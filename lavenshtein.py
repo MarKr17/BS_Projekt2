@@ -1,2 +1,3 @@
-#script for predicting allingment of multiple sequences
+#script for computing Lavenstein lenght using dot-bracket file
 
+f= open()
